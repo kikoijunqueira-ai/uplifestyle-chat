@@ -1,0 +1,8 @@
+{
+  "name": "uplifestyle-chat",
+  "version": "1.0.0",
+  "description": "Assistente IA Up Life Style",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
